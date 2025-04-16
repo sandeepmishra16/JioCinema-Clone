@@ -1,6 +1,6 @@
 # 🎬 JioCinema Clone
 
-A full-stack clone of the JioCinema streaming platform built using **React** (frontend) and **Express.js + Node.js** (backend). Users can search for movies.
+A clone of the JioCinema built using **React**  and **Express.js + Node.js**. Users can search for movies.
 
 ---
 
