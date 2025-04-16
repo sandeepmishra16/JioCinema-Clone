@@ -1,0 +1,16 @@
+.carouselShow {
+    width: 24%;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: green; */
+    overflow: hidden;
+    position: relative;
+    border-radius: 10px;
+}
+
+.carouselShow > img {
+    width: 100%;
+    position: absolute;
+}
